@@ -10,6 +10,7 @@ Script personalizado para exibir dados reais do contexto na barra de status do C
 - Tokens de entrada/saída
 - Custo da sessão
 - Duração da sessão
+<img width="1026" height="725" alt="Captura de tela de 2026-03-23 23-14-30" src="https://github.com/user-attachments/assets/e8b46e04-cf5b-4d5d-a74c-74ad2be4b10f" />
 
 ## Instalação
 
